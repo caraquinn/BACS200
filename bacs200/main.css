@@ -1,0 +1,41 @@
+table {
+    box-shadow: 4px 4px 10px gray;
+    border-color: blue;
+    text-align: center;
+    border-radius: 20px;
+    padding: 3em;
+}
+
+img {
+    box-shadow: 2px 2px 5px gray;
+}
+
+head {
+    font-size: 300%;
+    text-align: center;
+
+}
+
+h1 {
+    margin: 100px;
+    color: gold;
+}
+
+h2 {
+    margin-top: 1.3em;
+    color: blue;
+    background-color: lightcyan
+}
+
+img {
+    background: transparent;
+    border: 10px;
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+body {
+    background-color: aliceblue
+}
