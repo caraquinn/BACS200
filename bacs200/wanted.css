@@ -1,0 +1,56 @@
+body {
+    font-family: "New Courier";
+    font-size: 24px;
+}
+
+header {
+    color: lightgray;
+    background-color: saddlebrown;
+    text-align: center;
+
+}
+
+main {
+    border: 1px solid black;
+    box-shadow: 1px;
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+    float: center;
+}
+
+#side-menu {
+    margin: 10px;
+    float: left;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    text-align: center;
+}
+
+#side-menu ul {
+    list-style-type: none;
+}
+
+#side-menu ul li {
+    padding: 5px;
+    width: 200px;
+    margin: 0px;
+    background-color: rosybrown;
+    box-shadow: 2px 2px 5px black;
+}
+
+#side-menu ul li a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+img {
+    box-shadow: 20px white;
+    align-content: center;
+    border: 20 px;
+    border-color: white;
+
+}
