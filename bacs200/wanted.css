@@ -1,6 +1,7 @@
 body {
     font-family: "New Courier";
     font-size: 24px;
+    background-image: url(https://s3.envato.com/files/207961648/preview.jpg)
 }
 
 header {
@@ -35,7 +36,7 @@ main {
     padding: 5px;
     width: 200px;
     margin: 0px;
-    background-color: rosybrown;
+    background-color: saddlebrown;
     box-shadow: 2px 2px 5px black;
 }
 
