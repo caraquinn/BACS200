@@ -1,6 +1,12 @@
 nav {
     font-family: sans-serif;
+    background-color: gray;
 }
+
+header {
+    text-align: center;
+}
+
 
 
 /* ----------------------------------------------- */
