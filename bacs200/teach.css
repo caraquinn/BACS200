@@ -55,11 +55,11 @@ input:checked + .slider:before {
 
 /* Rounded sliders */
 .slider.round {
-    border-radius: 50px;
+    border-radius: 34px;
 }
 
 .slider.round:before {
-    border-radius: 34%;
+    border-radius: 50%;
 }
 
 header {
@@ -68,9 +68,11 @@ header {
     color: aqua;
 }
 
-body {font-family:sans-serif;}
+body {
+    font-family: sans-serif;
+}
 
 .label {
-    
+
     align-content: center;
 }

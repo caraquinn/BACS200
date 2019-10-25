@@ -3,19 +3,14 @@ table {
     border-color: blue;
     text-align: center;
     border-radius: 20px;
-<<<<<<< HEAD
-    
-=======
     padding: 3em;
->>>>>>> d15faf2b21c047af3ca73c692ab2fb384582ea40
 }
 
 img {
     box-shadow: 2px 2px 5px gray;
 }
 
-<<<<<<< HEAD
-body {
+HEAD body {
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
@@ -26,11 +21,18 @@ body {
     padding: 3em;
 }
 
-h1 {font color="blue"}
-h2,
-h3,
-h4,
-h5,
+h1 {
+    font color="blue"
+    margin: 100px;
+    color: gold;
+}
+
+h2 {
+    margin-top: 1.3em;
+    color: blue;
+    background-color: lightcyan
+}
+
 h6 {
     color: "green";
     font-weight: 600;
@@ -44,37 +46,21 @@ img {
     background: transparent;
     border: 10px solid rgba(0, 0, 0, 0.12);
     border-radius: 20px;
-=======
-head {
-    font-size: 300%;
-    text-align: center;
-
 }
 
-h1 {
-    margin: 100px;
-    color: gold;
-}
 
-h2 {
-    margin-top: 1.3em;
-    color: blue;
-    background-color: lightcyan
+
 }
 
 img {
     background: transparent;
     border: 10px;
     border-radius: 4px;
->>>>>>> d15faf2b21c047af3ca73c692ab2fb384582ea40
     display: block;
     margin: 1.3em auto;
     max-width: 95%;
 }
 
-<<<<<<< HEAD
-=======
-body {
-    background-color: aliceblue
+
+background-color: aliceblue
 }
->>>>>>> d15faf2b21c047af3ca73c692ab2fb384582ea40
