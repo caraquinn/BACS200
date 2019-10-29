@@ -63,9 +63,13 @@ input:checked + .slider:before {
 }
 
 header {
-    font-size: 50;
+    font-size: 100;
     text-align: center;
     color: aqua;
+}
+
+title {
+    font-size: 100;
 }
 
 body {
