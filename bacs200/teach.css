@@ -63,13 +63,13 @@ input:checked + .slider:before {
 }
 
 header {
-    font-size: 100;
+    font-size: 300;
     text-align: center;
     color: aqua;
 }
 
 title {
-    font-size: 100;
+    font-size: 300;
 }
 
 body {
