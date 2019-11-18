@@ -1,9 +1,9 @@
 # Requirements
 * Primary goal
-    * Marketing website for a non-profit
+    * Provide Compasionate care to pets, make donations
 * Priorities - Time, Money, Function
-* Top 10 objectives
-* Customer interactions
+* What we do- pet adoptions, public spay & Neuter, pet behavior and obedience training, pet therapy
+* Customer interactions- volunteer!
 
 # Design
 * Pages
